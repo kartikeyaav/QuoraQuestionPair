@@ -105,4 +105,4 @@ Linear SVM	BF + AF + DF + AVG-W2V	 0.6598
 
 XGBoost	BF + AF + DF + AVG-W2V	0.3680
 
-The best model, here is XGBoost, but as the data used is fraction of original data, we got a better model with XGBoost, we might get better modelling with Logistic regression and RBF-SVM as the datapoints increase as they perform extremely well for large datasets
+**The best model, here is XGBoost, but as the data used is fraction of original data, we got a better model with XGBoost, we might get better modelling with Logistic regression and RBF-SVM as the datapoints increase as they perform extremely well for large datasets**
